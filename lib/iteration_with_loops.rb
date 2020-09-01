@@ -13,5 +13,5 @@ def find_even_values(src)
     end
     count += 1
   end
-
+puts src[count][count_el]
 end
